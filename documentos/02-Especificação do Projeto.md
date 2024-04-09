@@ -59,13 +59,7 @@
 |Estudante e Jovem profissional|Receber dicas personalizadas sobre como manter minha privacidade em redes sociais e plataformas de estudo/trabalho|Evitar o vazamento de informações pessoais e profissionais.|
   
 ## Requisitos do Projeto
-
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
-
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF- 01 | O sistema deve viabilizar o cadastro no website, exigindo informações como e-mail e senha.| ALTA  | 

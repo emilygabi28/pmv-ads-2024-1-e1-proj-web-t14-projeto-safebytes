@@ -68,19 +68,25 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
-
-**Prioridade: Alta / Média / Baixa. 
-
+| RF- 01 | O sistema deve viabilizar o cadastro no website, exigindo informações como e-mail e senha.| ALTA  | 
+| RF- 02 | O sistema deve permitir o acesso ao website mediante o fornecimento de e-mail e senha durante o processo de login.| ALTA |
+| RF- 03 | A funcionalidade de atualização/recuperação de senha deve estar disponível no sistema| ALTA  | 
+| RF- 04 | O sistema deve disponibilizar módulos de aprendizagem sobre cibersegurança.| ALTA |
+| RF- 05 |O sistema deve propiciar mecanismos de busca por interesse do usuário.| MEDIA | 
+| RF- 06 | O sistema deve notificar os usuários cadastrados sobre artigos recentes.| ALTA |
+| RF- 07 | O sistema deve disponibilizar um processo gamificado onde o usuário poderá, a cada etapa, ampliar sua segurança.| ALTA  | 
+| RF- 08 | O website deve ser capaz de contabilizar o progresso do usuário.| ALTA |
+| RF- 09 |A partir da etapa 1, o sistema deve liberar uma etapa somente a partir da conclusão da anterior.| ALTA  | 
+ 
 ### Requisitos não Funcionais
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
-
-**Prioridade: Alta / Média / Baixa. 
-
+|RNF-01| O sistema deve fornecer uma interface interativa, responsiva e inclusiva.| ALTA   | 
+|RNF-02| O sistema deve manter uma rotina de atualizações diárias/ semanais nos seus conteúdos| ALTA   | 
+|RNF-03| O tempo de resposta do sistema não deve ultrapassar 15 segundos para otimizar a experiência do usuário.| ALTA   | 
+|RNF-04| É necessário que o sistema suporte o acesso simultâneo de até 30.000 usuários, mantendo um tempo de resposta satisfatório.| ALTA   | 
+|RNF-05| O sistema deve notificar o usuário sobre novidades em até 20 segundos após sua atualização.| ALTA   | 
+|RNF-06| A segurança dos dados dos usuários deve estar em conformidade com a LGPD (Lei Geral de Proteção de Dados), garantindo a privacidade e a integridade das informações.| ALTA   |  

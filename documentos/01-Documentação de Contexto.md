@@ -1,9 +1,6 @@
 # Introdução
 
-A internet representou o início de uma significativa revolução no cenário do mundo globalizado, onde a acessibilidade e a velocidade na busca por informações foram fundamentais. Basta acessar um site e digitar o que se procura para obter as informações de maneira ágil e fácil. Com o avanço da tecnologia a internet é um meio muito usado pelas pessoas como forma de informação, para realizar tarefas comuns como fazer compras, estudar ou até mesmo realizar pagamentos de boletos. 
-
-Tendo em vista toda a praticidade e facilidade trazida pelo uso da internet, as pessoas ficaram mais vulneráveis para sofrerem crimes cibernéticos, muitas das vezes por desinformação. Os criminosos aproveitam desse meio para prática de vários crimes virtuais, como roubar dados pessoais, acessar contas bancárias ou realizar extorsões.
-
+O objetivo desse projeto é conscientizar as pessoas oferecendo informações para prevenir esse tipo de crime, e se caso venha sofrer tal delito, instruir devidamente para realizar denúncia adequada. Trazer para sociedade questões relevantes sobre a tecnologia e seu uso para evitar tal crime, instruindo o entendimento das pessoas sobre essa prática que se torna tão comum atualmente, com o intuito de buscar possíveis soluções para os crimes virtuais.
 O objetivo desse projeto é conscientizar as pessoas oferecendo informações para prevenir esse tipo de crime, e se caso venha sofrer tal delito, instruir devidamente para realizar denúncia adequada. Trazer para sociedade questões relevantes sobre a tecnologia e seu uso para evitar tal crime, instruindo o entendimento das pessoas sobre essa prática que se torna tão comum atualmente com o intuito de buscar possíveis soluções para os crimes virtuais
 
 

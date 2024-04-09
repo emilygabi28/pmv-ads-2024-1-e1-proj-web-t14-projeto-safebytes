@@ -5,11 +5,11 @@ O objetivo desse projeto é conscientizar as pessoas oferecendo informações pa
 
 
 ## Problema
-Dificuldade em relatar os crimes virtuais (não saber onde procurar ajuda)
-Desinformação sobre provas digitais (pessoas acreditam que capturas de tela são suficientes); educar sobre a coleta adequada de evidências
-Falta de recursos e suporte: informações sobre os direitos legais da vítima e encaminhamento para organizações de apoio. +ferramentas e guias para recuperar dados perdidos, reforçar a segurança de suas contas.
-Educar sobre os tipos comuns de ameaças cibernéticas é essencial para a segurança online. Uma dessas ameaças, o phishing, é descrito por Yunoose et al. (2022) como o ato fraudulento de enganar indivíduos para que revelem informações sensíveis como nomes de usuário, senhas e detalhes de cartões de crédito, fingindo ser uma entidade confiável em comunicações eletrônicas (p. 574 – 579). Além do phishing, existem outras ameaças significativas, como ransomware, fraude online, que inclui propagandas enganosas de jogos de cassino, promessas de curas milagrosas ou tratamentos falsos para doenças, bem como esquemas fraudulentos que visam enganar as pessoas para obter ganhos financeiros de maneira desonesta. Outros perigos incluem a sextorsão, hacking, cyberbullying, violação de dados e difamação online, tornando a conscientização e a educação em segurança cibernética mais importantes do que nunca.
-Outros: revenge porn, fraude eleitoral, fraude de publicidade direcionada, fraude de vendas online.
+* Dificuldade em relatar os crimes virtuais (não saber onde procurar ajuda)
+* Desinformação sobre provas digitais (pessoas acreditam que capturas de tela são suficientes); educar sobre a coleta adequada de evidências
+* Falta de recursos e suporte: informações sobre os direitos legais da vítima e encaminhamento para organizações de apoio. +ferramentas e guias para recuperar dados perdidos, reforçar a segurança de suas contas.
+* Educar sobre os tipos comuns de ameaças cibernéticas é essencial para a segurança online. Uma dessas ameaças, o phishing, é descrito por Yunoose et al. (2022) como o ato fraudulento de enganar indivíduos para * * que revelem informações sensíveis como nomes de usuário, senhas e detalhes de cartões de crédito, fingindo ser uma entidade confiável em comunicações eletrônicas (p. 574 – 579). Além do phishing, existem outras * ameaças significativas, como ransomware, fraude online, que inclui propagandas enganosas de jogos de cassino, promessas de curas milagrosas ou tratamentos falsos para doenças, bem como esquemas fraudulentos que * visam enganar as pessoas para obter ganhos financeiros de maneira desonesta. Outros perigos incluem a sextorsão, hacking, cyberbullying, violação de dados e difamação online, tornando a conscientização e a * * * * educação em segurança cibernética mais importantes do que nunca.
+* Outros: revenge porn, fraude eleitoral, fraude de publicidade direcionada, fraude de vendas online.
 
 O problema central abordado neste artigo reside na urgência de enfrentar os desafios constantes relacionados à cibersegurança.
 
@@ -21,10 +21,10 @@ Grandes áreas (que podemos dividir): segurança da rede, segurança de sistemas
 O projeto terá como objetivo principal abordar situações de crime cibernético, para os usuários terem mais informações sobre como prevenir fraudes virtuais e como agir, caso ocorram.
 
 Como objetivos secundários, podemos destacar:
-Oferecer recursos educacionais sobre a segurança cibernética.
-Publicar medidas preventivas para os usuários poderem proteger suas informações.
-Criar guias passo a passo de como agir em caso de golpes digitais.
-Fornecer informações atualizadas sobre as últimas tendências no mundo do crime virtual.
+* Oferecer recursos educacionais sobre a segurança cibernética.
+* Publicar medidas preventivas para os usuários poderem proteger suas informações.
+* Criar guias passo a passo de como agir em caso de golpes digitais.
+* Fornecer informações atualizadas sobre as últimas tendências no mundo do crime virtual.
 
  
 

@@ -29,7 +29,7 @@ Fornecer informações atualizadas sobre as últimas tendências no mundo do cri
 
 ## Orientador
 
-* Hayala nepomuceno curto
+* Hayala Nepomuceno Curto
 
 # Documentação
 

@@ -73,9 +73,6 @@
 | RF- 09 |A partir da etapa 1, o sistema deve liberar uma etapa somente a partir da conclusão da anterior.| ALTA  | 
  
 ### Requisitos não Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
-
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 |RNF-01| O sistema deve fornecer uma interface interativa, responsiva e inclusiva.| ALTA   | 

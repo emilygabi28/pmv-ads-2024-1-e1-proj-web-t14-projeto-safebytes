@@ -1,10 +1,10 @@
-# Título do Projeto
+# SafeBytes
 
-`CURSO`
+`Analise e Desenvolvimento De Sistemas`
 
-`DISCIPLINA`
+`Projeto Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`Eixo1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
@@ -16,10 +16,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 * Nome completo do aluno 6
+* Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor
+* Hayala nepomuceno curto
 
 # Documentação
 

@@ -40,6 +40,7 @@ Figura 2 - Tela do kanban no Trello utilizada pelo grupo
 </ul>
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/9a9bc2af-af67-4f58-b1e5-1c8faa68a0ad)
+
 Figura 3 - Tela do esquema de cores e etiquetas de categoria
   
 ### Ferramentas

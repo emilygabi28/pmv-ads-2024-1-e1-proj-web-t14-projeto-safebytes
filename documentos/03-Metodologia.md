@@ -24,7 +24,7 @@ Para a organização das tarefas do projeto, a equipe está usando o Trello, com
 
 O quadro kanban do grupo está disponível no link https://trello.com/b/oKiPz6Xl e atualmente, se encontra da seguinte forma:
 <figure>
-  <img src= https://files.fm/u/raxmetb94h#/view/uqfh4m87rd
+  <img src="db110331-6b36-4aed-bc0f-089a0ded522f.jpg">
 </figure>
 
 ### Etiquetas

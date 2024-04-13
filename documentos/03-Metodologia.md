@@ -53,12 +53,12 @@ As ferramentas utilizadas no projeto são:
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
-| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                                                                              |
-|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                                                                                 |
-| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes  |
-| Projeto de Interface                | Figma                              | http://....                                                                                 |
-| Gerenciamento do Projeto            | Trello                             | https://trello.com/b/oKiPz6Xl                                                               |
+| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                                                                                                |
+|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Repositório de código fonte         | GitHub                             | http://....                                                                                                   |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes                    |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/uTCgWzNOZTSf5iQ5KdJj3t/Projeto---Vigia-Virtual?type=design&node-id=0-1&mode=design |            
+| Gerenciamento do Projeto            | Trello                             | https://trello.com/b/oKiPz6Xl                                                                                 |
 
 
 ### Estratégia de Organização de Codificação 

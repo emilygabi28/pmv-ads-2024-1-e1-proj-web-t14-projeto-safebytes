@@ -6,8 +6,6 @@
 
 `Eixo1`
 
-O objetivo desse projeto é conscientizar as pessoas oferecendo informações para prevenir os crimes cibernéticos, e caso venha sofrer tal delito, instruir devidamente para realizar denúncia adequada. Trazer para sociedade questões relevantes sobre a tecnologia e seu uso para evitar tal crime, instruindo o entendimento das pessoas sobre essa prática que se torna tão comum atualmente com o intuito de buscar possíveis soluções para os crimes virtuais.
-
 O projeto terá como objetivo principal abordar situações de crime cibernético, para os usuários terem mais informações sobre como prevenir fraudes virtuais e como agir, caso ocorram.
 
 Como objetivos secundários, podemos destacar:

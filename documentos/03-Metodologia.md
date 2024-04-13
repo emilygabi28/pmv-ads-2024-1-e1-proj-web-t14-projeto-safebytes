@@ -39,10 +39,8 @@ O quadro kanban do grupo está disponível no link https://trello.com/b/oKiPz6Xl
   <li>Testes (Tests)</li>
 </ul>
 
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
-</figure> 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/9a9bc2af-af67-4f58-b1e5-1c8faa68a0ad)
+
   
 ### Ferramentas
 

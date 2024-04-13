@@ -25,7 +25,7 @@ Para a organização das tarefas do projeto, a equipe está usando o Trello, com
 O quadro kanban do grupo está disponível no link https://trello.com/b/oKiPz6Xl e atualmente, se encontra da seguinte forma:
 
 ![db110331-6b36-4aed-bc0f-089a0ded522f](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/ac114a9e-58e7-45cf-9cce-ca8b6b383514)
-Figura 2 - Tela do kanban no Trello utilizada pelo grupo
+Figura 1 - Tela do kanban no Trello utilizada pelo grupo
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
@@ -41,7 +41,7 @@ Figura 2 - Tela do kanban no Trello utilizada pelo grupo
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/9a9bc2af-af67-4f58-b1e5-1c8faa68a0ad)
 
-Figura 3 - Tela do esquema de cores e etiquetas de categoria
+Figura 2 - Tela do esquema de cores e etiquetas de categoria
   
 ### Ferramentas
 

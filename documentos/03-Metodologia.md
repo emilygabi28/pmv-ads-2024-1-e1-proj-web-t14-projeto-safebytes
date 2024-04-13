@@ -22,6 +22,11 @@ Para a organização das tarefas do projeto, a equipe está usando o Trello, com
 - Doing: Lista das tarefas que estamos trabalhando no momento. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues.
 
+O quadro kanban do grupo está disponível no link https://trello.com/b/oKiPz6Xl e atualmente, se encontra da seguinte forma:
+<figure>
+  <img src= "blob:https://web.whatsapp.com/db110331-6b36-4aed-bc0f-089a0ded522f"
+</figure>
+
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 

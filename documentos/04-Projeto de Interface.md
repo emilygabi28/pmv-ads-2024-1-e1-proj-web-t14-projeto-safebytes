@@ -66,5 +66,28 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ![83795c36-fbca-4db0-bcfe-d0154a4762d7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/64a66969-7d46-4806-9c7d-8e88edfa34f8)
 
+## Página O que foi feito?
+
+![90df2be2-0054-4336-8770-39eebf9431e0](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/4458d770-6ef7-48d9-b88c-48d568a5492d)
+
+## Página de Perfil
+
+![e331e8ab-6a74-4bb2-b625-ac07b339fa32](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/8b8c2272-4469-4f66-a456-3181368db821)
+
+## Página de Configuração
+
+![cfd08951-4995-4869-b813-1662b83aca04](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/8457a5e6-4bc9-413d-adfd-4c952a2f7dc1)
+
+## Página Recupere sua senha
+
+![05fe53dd-b485-4c46-9295-0f764276a868](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/a8c4d696-1331-4a8c-9ab7-808470d36164)
+
+## Página Verifique seu email
+
+![163a1038-be8b-40be-b6b8-d1f72be162be](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/afcc2d1e-b3f4-4184-ab07-48d932c80f99)
+
+## Página Redefina sua Senha
+
+![53b19b36-0f99-4885-a387-a678010a4f31](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/bb7671c5-b770-4c7a-95f3-fb7dc532f63c)
 
 

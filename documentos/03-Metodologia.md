@@ -8,8 +8,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
+A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. Portanto, a equipe é distribuída da seguinte forma:
 - Scrum Master: Emerson Cândido de Carvalho Junior
 - Product Owner: Rodrigo Macedo Barbosa
 - Equipe de Desenvolvimento: Arthur Chain, Emily Gabriela Avelino Rodrigues, Maria Eduarda Rodrigues Antunes, Rodrigo Macedo Barbosa, Jacinara Natasha Ribeiro, Kevin Gabriel Lino Gonçalves, Emerson Cândido de Carvalho Junior.

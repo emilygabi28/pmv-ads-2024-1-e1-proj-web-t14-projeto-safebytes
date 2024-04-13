@@ -24,7 +24,8 @@ Para a organização das tarefas do projeto, a equipe está usando o Trello, com
 
 O quadro kanban do grupo está disponível no link https://trello.com/b/oKiPz6Xl e atualmente, se encontra da seguinte forma:
 <figure>
-  <img src="https://i.im.ge/2024/04/13/ZMCzA6.db110331-6b36-4aed-bc0f-089a0ded522f.jpeg">
+  <img src="![db110331-6b36-4aed-bc0f-089a0ded522f](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/ad2ec4a0-1cfd-45e6-8d5e-2dccb2c960d4)
+">
 </figure>
 
 ### Etiquetas

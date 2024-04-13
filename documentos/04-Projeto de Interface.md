@@ -48,5 +48,23 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Página Tutorial - Etapa 1
 
+![bb064c8e-9d8f-470f-ac91-adaea8251e18](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/b301a255-a016-422c-bf45-eca1c99709e7)
+
+## Página Lista de Tutoriais
+
+![2685deab-3996-438c-a4d6-06b4bb1af4e4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/8bee150f-9ae0-44c1-9bd9-bb6c31709578)
+
+## Página Lista de Quizzes
+
+![3d6d7850-c520-43c2-99d6-6f9199505d88](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/479696b2-7f43-4d29-86e3-184cbe5330f9)
+
+## Página Quiz
+
+![66ec911f-165b-4245-b121-81c43dc2fee2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/3d781f89-c33d-4483-b256-e611b50352da)
+
+## Página de Perfil
+
+![83795c36-fbca-4db0-bcfe-d0154a4762d7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/64a66969-7d46-4806-9c7d-8e88edfa34f8)
+
 
 

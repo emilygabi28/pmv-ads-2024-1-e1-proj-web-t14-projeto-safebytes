@@ -16,7 +16,7 @@ Esta é a primeira página com que o usuário tem contato, contendo os principai
 ![16c7b32d-d1c9-467b-b00b-f521e651def3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/fb45fcd9-1e72-47fe-9d66-02aa11f484ae)
 
 ## Página Quem Somos?
-Aqui, o usuário pode realizar buscas por temas específicos dentro do site, facilitando o acesso direto a um artigo de interesse.
+Esta página apresenta a missão, abordagem e responsabilidade social do projeto Vigia Virtual, permitindo ao usuário entender a filosofia do nosso projeto.
 
 ![22eda353-f24c-4c4f-b884-1f09cbfaadb7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t14-projeto-safebytes/assets/165968928/1c67ad7f-7d94-4bfe-a35e-5cdebc22d9f5)
 
